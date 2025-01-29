@@ -11,3 +11,5 @@ config/__pycache__/__init__.cpython-310.pyc
 config/__pycache__/settings.cpython-310.pyc
 config/__pycache__/urls.cpython-310.pyc
 config/__pycache__/wsgi.cpython-310.pyc
+cert.key
+cert.crt
